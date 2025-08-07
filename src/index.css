@@ -1,0 +1,14 @@
+/* src/index.css or wherever your global CSS is */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+@import 'tailwindcss';
+html, body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9fafb;
+  color: #1f2937;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+/* rest of your styles */
