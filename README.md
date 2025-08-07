@@ -1,12 +1,39 @@
-# React + Vite
+# Business Portfolio Template (React + Vite + Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive one-page business and portfolio website template built with **React**, **Vite**, and **Tailwind CSS 4.x**. Designed for professionals, agencies, and developers who want a clean and functional web presence.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Features
 
-## Expanding the ESLint configuration
+- ⚡ Built with **Vite** – super fast dev & build tool
+- 🎨 Styled with **Tailwind CSS 4.x** – utility-first approach
+- 🌙 **Dark/Light Mode** toggle with smooth transitions
+- 📱 Fully **responsive design** (mobile, tablet, desktop)
+- 💼 **Portfolio tabs** with category-based filtering
+- 📋 Sections: Hero, About, Services, Portfolio, Contact
+- 🧩 Modular & reusable components
+- 🗺 Embedded **Google Maps** in Contact section
+- 🎯 Clean code structure, easy to customize
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Heroicons / React Icons
+- HTML5 + JSX
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
+npm install
+npm run dev
